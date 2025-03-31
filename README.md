@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ishita-xia
 - 👀 I’m interested in learning to code and DSA
 - 🌱 I’m currently learning C++ and DSA
-- 📫 How to reach me @darkpixie_dust (insta)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm just a newbie!
 
